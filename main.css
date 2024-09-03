@@ -1,6 +1,6 @@
 /* Personal Portfolio:*/
 header  {
-    background-color:white
+    background-color:white;
     color: pink;
     text-align:center;
     font-size: x-large;
@@ -15,7 +15,7 @@ header nav{
     display: inline-block;
 }
 body {
-    background-color:white
+    background-color:white;
     
 }
 
@@ -48,7 +48,7 @@ list-style-type: square;
 border-bottom: 5px solid yellow; 
 }
 footer  {
-    background-color: pink
+    background-color: pink;
     color: black;
     text-align: center;
     font-size: xx-large;
